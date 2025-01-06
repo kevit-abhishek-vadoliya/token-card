@@ -1,66 +1,66 @@
 body {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #3b3f48;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #3b3f48;
 }
 
 .mb-0 {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .mt-0 {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .color-orange {
-    color: #ff4b0b;
+  color: #ff4b0b;
 }
 
 .color-gray {
-    color: gray;
+  color: gray;
 }
 
-.fs-xs {
-    font-size: x-small;
+.stat-label {
+  font-size: x-small;
 }
 
 .card {
-    width: 320px;
-    height: auto;
-    overflow: hidden;
-    background-color: #ffffff;
-    border-radius: 15px;
-    box-shadow: 5px 10px 50px 2px #000000;
-    margin: auto;
-    margin-top: 100px;
+  width: 320px;
+  height: auto;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 5px 10px 50px 2px #000000;
+  margin: auto;
+  margin-top: 100px;
 }
 
 .header-img {
-    width: 320px;
+  width: 320px;
 }
 
 .stat-item {
-    padding-bottom: 10px;
-    flex: 1 1 0;
+  padding-bottom: 10px;
+  flex: 1 1 0;
 }
 
 .middle-div {
-    border-left: 1px solid #e94101;
-    border-right: 1px solid #e94101;
+  border-left: 1px solid #e94101;
+  border-right: 1px solid #e94101;
 }
 
 .stats-container {
-    display: flex;
-    background-color: #ff4b0b;
-    text-align: center;
-    color: #ffffff;
+  display: flex;
+  background-color: #ff4b0b;
+  text-align: center;
+  color: #ffffff;
 }
 
-.number {
-    font-weight: 700;
-    font-size: x-large;
+.stat-value {
+  font-weight: 700;
+  font-size: x-large;
 }
 
 main {
-    text-align: center;
-    margin: 25px;
+  text-align: center;
+  margin: 25px;
 }
